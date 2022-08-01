@@ -26,7 +26,7 @@ Then you go to visual studio code terminal, and run:
 ```
 
 ```sh
-In your main folder you will need to create a .env file and create a variable with the following syntax [KEY_MAPS_API = YourApiKey]
+In your main folder you will need to create a .env file and create a variable with the following syntax [KEY_MAPS_API = YourApiKey] without []
 ```
 
 ## Author
