@@ -24,12 +24,8 @@ expo start
 
 * Twitter: [@justRunnz](https://twitter.com/justRunnz)
 * Github: [@justRunnz](https://github.com/justRunnz)
-* LinkedIn: [@Rui GASPAR Développeur Web](https://linkedin.com/in/Rui GASPAR Développeur Web)
+* LinkedIn: [@Rui GASPAR Développeur Web](https://www.linkedin.com/in/rui-gaspar-web-developpeur/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
